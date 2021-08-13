@@ -4,7 +4,7 @@ I'm a just-graduated alumnus of the [Makers](https://makers.tech/) January 2021 
 
 - 📨&nbsp;&nbsp;&nbsp;Contact me by [**any method here**](https://www.linkedin.com/in/joshsinyor/detail/contact-info/)!
 - 👨🏻&nbsp;&nbsp;&nbsp;Pronouns: he/him
-- 🧑🏻‍💻&nbsp;&nbsp;&nbsp;I'm getting good at:
+- 💻&nbsp;&nbsp;&nbsp;I'm getting good at:
   - **Ruby**, including **RSpec**, **Capybara** and **Sinatra**.
   - **HTML** and **CSS**, including **Bootstrap**.
   - **JavaScript**.
