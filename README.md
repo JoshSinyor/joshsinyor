@@ -21,5 +21,5 @@ When I'm not refactoring, I'm probably:
 Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the inside line on my most recent projects!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshSinyor)](https://github.com/JoshSinyor/github-readme-stats" alt="My GitHub Statistics"
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshSinyor)](https://github.com/anuraghazra/github-readme-stats" alt="My GitHub Statistics"
 </p>
