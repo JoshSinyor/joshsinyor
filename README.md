@@ -19,3 +19,7 @@ When I'm not refactoring, I'm probably:
 - 📖&nbsp;&nbsp;&nbsp;Browsing the kind of terrible thrillers you only find in airports.
 
 Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the inside line on my most recent projects!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshSinyor)](https://github.com/JoshSinyor/github-readme-stats" alt="My GitHub Statistics"
+</p>
