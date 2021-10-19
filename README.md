@@ -22,5 +22,5 @@ Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Statistics Card">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSinyor&layout=compact" alt="Language Card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSinyor&layout=compact&theme=github_dark&hide_title=true" alt="Language Card">
 </p>
