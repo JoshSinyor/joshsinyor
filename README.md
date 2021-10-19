@@ -21,12 +21,28 @@ When I'm not refactoring, I'm probably:
 Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the inside line on my most recent projects!
 
 <p align="center">
-  <table>
-      <tr>
-        <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
-      </tr>
-      <tr>
-        <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
-      </tr>
+  <table style="border: none">
+    <tr style="display: inline-block">
+        <td style="border: none; display: inline-block">
+          <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
+        </td>
+        <td style="border: none; display: inline-block">
+          <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
+        </td>
+    </tr>
   </table>
 </p>
+
+<div>
+  <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
+  <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
+</div>
+
+<div style="display: inline-grid; column-gap: 5px">
+  <div style="grid-area: 1 / 1; align-self: center">
+    <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
+  </div>
+  <div style="grid-area: 1 / 2; align-self: center">
+    <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
+  </div>
+</div>
