@@ -20,5 +20,5 @@ When I'm not refactoring, I'm probably:
 
 Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the inside line on my most recent projects!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
+<img align="center" src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
+<img align="center" src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
