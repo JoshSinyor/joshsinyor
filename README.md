@@ -23,10 +23,10 @@ Have a look at [**my blog**](https://joshsinyor.github.io/) if you'd like the in
 <table>
   <tr>
       <td>
-        <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=JoshSinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
+        <img src="https://github-readme-stats.joshsinyor.vercel.app/api?username=joshsinyor&count_private=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Statistics Card">
       </td>
       <td>
-        <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=JoshSinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
+        <img src="https://github-readme-stats.joshsinyor.vercel.app/api/top-langs/?username=joshsinyor&theme=github_dark&hide_title=true&hide_border=true" alt="Language Card">
       </td>
   </tr>
 </table>
